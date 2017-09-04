@@ -7,7 +7,7 @@
     Seeking for full-time position of Software Engineer.
 
 ### EDUCATION
-* **Rutgers University - New Brunswick** New BrunswickNJ <br>
+* **Rutgers University - New Brunswick** New Brunswick, NJ <br>
     Master of Science in Computer Science, Graduation: 05/2017 <br>
     Specialized in AI and Machine Learning, GPA: 3.45/4.0 <br>
 * **Shandong University** Jinan, Shandong, China <br>
