@@ -3,15 +3,15 @@
 ## Hongyang (Henry) Yu
 
 ### SUMMARY
-    Currently working as a software developer in a startup company
-    Seeking for full-time position of Software Engineer
+    Currently working as a software developer in a startup company.
+    Seeking for full-time position of Software Engineer.
 
 ### EDUCATION
-* Rutgers University 													    New Brunswick, NJ <br>
-Master of Science in Computer Science										    Graduation: 05/2017 <br>
-Specialized in AI and Machine Learning											 GPA: 3.45/4.0 <br>
-* Shandong University													 Jinan, Shandong, China <br>
-Bachelor of Engineering in Computer Science and Technology	    	    GPA: 87/100  Graduation: 06/2015 <br>
+* **Rutgers University - New Brunswick** New BrunswickNJ <br>
+    Master of Science in Computer Science, Graduation: 05/2017 <br>
+    Specialized in AI and Machine Learning, GPA: 3.45/4.0 <br>
+* **Shandong University** Jinan, Shandong, China <br>
+    Bachelor of Engineering in Computer Science and Technology, GPA: 87/100, Graduation: 06/2015 <br>
 
 ### EXPERIENCE
 * **Software Developer – Altomni Corp.** <br>
@@ -53,3 +53,8 @@ Bachelor of Engineering in Computer Science and Technology	    	    GPA: 87/100 
 * **Programming Languages:** Java, Python, Scala, C, C++, Matlab, Swift, Objective-C, SQL
 * **Web Technologies:** JavaScript/HTML/CSS, Bootstrap, PHP, Scrapy, Meteor JS
 * **Frameworks and Tools:** Spring, Flask, AWS, Spark, Hadoop, CUDA, MariaDB, MySQL, Maven, Git
+
+**Contact Me:**<br>
+LinkedIn: https://www.linkedin.com/in/hongyangyu <br>
+Email: hongyangyu.henry@gmail.com <br>
+
