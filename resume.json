@@ -1,0 +1,167 @@
+{  
+   "firstName":"Hongyang",
+   "lastName":"Yu",
+   "preferredName":"Henry",
+   "email":"hongyangyu.henry@gmail.com",
+   "cellPhone":"(848) 391-4874",
+   "address":"1275 Crowley Ave, Santa Clara, CA 95051",
+   "educations":[  
+      {  
+         "school":"Rutgers University, New Brunswick",
+         "degree":"Master",
+         "major":"Computer Science",
+         "gpa":3.45,
+         "scale":4.0,
+         "location":"New Brunswick, NJ, US",
+         "startDate":"2015-09-01",
+         "endDate":"2017-05-20"
+      },
+      {  
+         "school":"Shandong University",
+         "degree":"Bachelor",
+         "major":"Computer Science and Technology",
+         "gpa":87,
+         "scale":100,
+         "location":"Jinan, Shandong, China",
+         "startDate":"2011-09-01",
+         "endDate":"2015-06-30"
+      }
+   ],
+   "experiences":[  
+      {  
+         "title":"Software Engineer",
+         "employer":"Altomni Corp",
+         "department":null,
+         "detail":"• SoftwWorking on an Applicant Tracking System (ATS) in back-end team at an early-stage startup \n• Designing and developing RESTful API and service with Spring \n• Developing and optimizing job description parser and resume parser with Flask \n• Designing and managing relational database MariaDB/MySQL, and crawling and populating data\n• Collaborating with front-end engineers to design the system \n• Developing unit test with JUnit and integration tests with Rest Assured and Postman",
+         "technologies":[  
+            "Java",
+            "Spring",
+            "Jhipster",
+            "Python",
+            "Flask",
+            "MariaDB",
+            "MySQL",
+            "AWS",
+            "Alibaba Cloud",
+            "JavaScript"
+         ],
+         "location":"Santa Clara, CA, US",
+         "startDate":"2017-07-10",
+         "endDate":"now"
+      },
+      {  
+         "title":"Research Assistant",
+         "employer":"Shandong University",
+         "department":"Machine Learning and Data Mining Lab",
+         "detail":"• Research topic: Finger-knuckle-print Pattern Recognition \n• Came up with two-phase Region of Interest (ROI) detection method to extract ROI images accurately \n• Publication: A New Finger-Knuckle-Print ROI Extraction Method Based on Two-Stage Center Point Detection. Yu, Hongyang, Yang, G., Wang, Z. and Zhang, L.",
+         "technologies":[  
+            "Matlab",
+            "Image Processing",
+            "SIFT",
+            "SURF",
+            "Nearest Neighbor Search",
+            "Biometric Recognition"
+         ],
+         "location":"Jinan, Shandong, China",
+         "startDate":"2014-03-01",
+         "endDate":"2015-01-30"
+      },
+      {  
+         "title":"Research Assistant Intern ",
+         "employer":"Peking University",
+         "department":"Software Engineering Institute",
+         "detail":"• Research topic: Finger-knuckle-print Pattern Recognition \n• Came up with two-phase Region of Interest (ROI) detection method to extract ROI images accurately \n• Publication: A New Finger-Knuckle-Print ROI Extraction Method Based on Two-Stage Center Point Detection. Yu, Hongyang, Yang, G., Wang, Z. and Zhang, L.",
+         "technologies":[  
+            "Java",
+            "SQL",
+            "Text Mining",
+            "Principal Components Analysis"
+         ],
+         "location":"Beijing, Beijing, China",
+         "startDate":"2013-07-01",
+         "endDate":"2013-07-30"
+      }
+   ],
+   "projects":[  
+      {  
+         "name":"Restaurant Strategy Selection based on Yelp with Spark",
+         "task":"To find which kind of restaurant strategy has more possibility to get success when startup",
+         "detail":"• Extracted and transformed text features to numeric vectors from over 144,000 businesses on Spark \n• Trained multilayer backpropagation neural network to do regression on Deeplearning4j",
+         "technologies":[  
+            "Scala",
+            "Java",
+            "Spark",
+            "Deeplearning4j",
+            "Word2Vect",
+            "openNLP"
+         ],
+         "location":"Piscataway, NJ, US",
+         "startDate":"2017-02-01",
+         "endDate":"2017-04-30"
+      },
+      {  
+         "name":"Chess Game Data Processing on AWS EC2 Hadoop",
+         "task":"To analyze winning percentage with large chess game data",
+         "detail":"• Implemented Mapper, Reducer and Combiner, and customized FileInputFormat and Partitioner to select and sort matching information. \n• Ran MapReduce jobs with 20 GB PGN type data on the AWS",
+         "technologies":[  
+            "Java",
+            "MapReduce",
+            "Hadoop",
+            "AWS"
+         ],
+         "location":"Piscataway, NJ, US",
+         "startDate":"2016-11-01",
+         "endDate":"2016-12-15"
+      },
+      {  
+         "name":"Hand-Eye Robotics Grasping Prediction with Deep Learning",
+         "task":"To predict the best grasping pose for hand-eye robotics",
+         "detail":"• Designed scoring function and collected more than 30,000 grasping data with different scenes \n• Trained Convolutional Neural Network (CNN) to predict the best grasping pose",
+         "technologies":[  
+            "Python",
+            "ROS",
+            "Point Cloud Library (PCL)",
+            "Keras",
+            "TensorFlow",
+            "Scikit-learn"
+         ],
+         "location":"Piscataway, NJ, US",
+         "startDate":"2016-03-01",
+         "endDate":"2016-05-10"
+      }
+   ],
+   "skills":{  
+      "programmingLanguages":[  
+         "Java",
+         "Python",
+         "Scala",
+         "C",
+         "C++",
+         "Matlab",
+         "Swift",
+         "Objective-C",
+         "SQL"
+      ],
+      "webTechnologies":[  
+         "JavaScript",
+         "HTML",
+         "CSS",
+         "PHP",
+         "Scrapy",
+         "Meteor JS",
+         "Bootstrap"
+      ],
+      "tools":[  
+         "Spring",
+         "Flask",
+         "AWS",
+         "Spark",
+         "Hadoop",
+         "CUDA",
+         "MariaDB",
+         "MySQL",
+         "Maven",
+         "Git"
+      ]
+   }
+}
